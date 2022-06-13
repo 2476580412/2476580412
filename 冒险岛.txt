@@ -6,3 +6,4 @@ SCREENWIDTH = 822  # 窗口宽度
 SCREENHEIGHT = 199  # 窗口高度
 FPS = 30  # 更新画面的时间
 
+
