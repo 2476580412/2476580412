@@ -39,3 +39,4 @@ class Music_Button():
         point_x, point_y = pygame.mouse.get_pos()
         w, h = self.open_img.get_size()             # 获取按钮图片的大小
         # 判断鼠标是否在按钮范围内
+        in_x = point_x > 20 and point_x < 20 + w
