@@ -30,3 +30,4 @@ class MyMap():
 class Music_Button():
     is_open = True   # 背景乐音的标记
     def __init__(self):
+        self.open_img = pygame.image.load('image/btn_open.png').convert_alpha()
