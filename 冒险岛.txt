@@ -54,3 +54,4 @@ from itertools import cycle  # 导入迭代工具
 class Marie():
     def __init__(self):
         # 初始化小玛丽矩形
+        self.rect = pygame.Rect(0, 0, 0, 0)
