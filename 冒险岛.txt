@@ -51,3 +51,4 @@ from itertools import cycle  # 导入迭代工具
 
 
 # 玛丽类
+class Marie():
