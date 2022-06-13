@@ -23,3 +23,4 @@ class MyMap():
             self.x -= 5  # 5个像素向左移动
 
     # 更新地图
+    def map_update(self):
