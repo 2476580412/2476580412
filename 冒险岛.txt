@@ -26,3 +26,4 @@ class MyMap():
     def map_update(self):
         SCREEN.blit(self.bg, (self.x, self.y))
 
+# 背景音乐按钮
