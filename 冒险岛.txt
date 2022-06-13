@@ -25,3 +25,4 @@ class MyMap():
     # 更新地图
     def map_update(self):
         SCREEN.blit(self.bg, (self.x, self.y))
+
