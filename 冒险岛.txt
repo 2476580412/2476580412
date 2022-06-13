@@ -48,3 +48,6 @@ class Music_Button():
 
 
 from itertools import cycle  # 导入迭代工具
+
+
+# 玛丽类
