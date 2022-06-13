@@ -16,3 +16,4 @@ class MyMap():
         self.x = x
         self.y = y
 
+    def map_rolling(self):
