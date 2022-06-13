@@ -36,3 +36,4 @@ class Music_Button():
     # 判断鼠标是否在，按钮的范围内
     def is_select(self):
         # 获取鼠标，的坐标
+        point_x, point_y = pygame.mouse.get_pos()
