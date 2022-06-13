@@ -11,3 +11,4 @@ FPS = 30  # 更新画面的时间
 class MyMap():
 
     def __init__(self, x, y):
+        # 加载背景图片
