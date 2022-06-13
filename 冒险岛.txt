@@ -34,3 +34,4 @@ class Music_Button():
         self.close_img = pygame.image.load('image/btn_close.png').convert_alpha()
         self.bg_music = pygame.mixer.Sound('audio/bg_music.wav')  # 加载背景音乐
     # 判断鼠标是否在，按钮的范围内
+    def is_select(self):
