@@ -9,3 +9,5 @@ FPS = 30  # 更新画面的时间
 
 # 定义一个移动地图类
 class MyMap():
+
+    def __init__(self, x, y):
