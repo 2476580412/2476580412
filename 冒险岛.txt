@@ -42,3 +42,9 @@ class Music_Button():
         in_x = point_x > 20 and point_x < 20 + w
         in_y = point_y > 20 and point_y < 20 + h
         return in_x and in_y
+
+
+
+
+
+from itertools import cycle  # 导入迭代工具
