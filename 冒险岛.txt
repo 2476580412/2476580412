@@ -13,3 +13,4 @@ class MyMap():
     def __init__(self, x, y):
         # 加载背景图片
         self.bg = pygame.image.load("image/bg.png").convert_alpha()
+        self.x = x
