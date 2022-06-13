@@ -19,3 +19,4 @@ class MyMap():
     def map_rolling(self):
         if self.x < -790:  # 小于-790说明地图已经完全移动完毕
             self.x = 800  # 给地图一个新的坐标点
+        else:
