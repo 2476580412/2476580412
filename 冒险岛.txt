@@ -15,3 +15,4 @@ class MyMap():
         self.bg = pygame.image.load("image/bg.png").convert_alpha()
         self.x = x
         self.y = y
+
