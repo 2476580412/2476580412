@@ -41,3 +41,4 @@ class Music_Button():
         # 判断鼠标是否在按钮范围内
         in_x = point_x > 20 and point_x < 20 + w
         in_y = point_y > 20 and point_y < 20 + h
+        return in_x and in_y
