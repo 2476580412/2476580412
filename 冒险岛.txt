@@ -22,3 +22,4 @@ class MyMap():
         else:
             self.x -= 5  # 5个像素向左移动
 
+    # 更新地图
