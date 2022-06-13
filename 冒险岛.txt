@@ -28,3 +28,4 @@ class MyMap():
 
 # 背景音乐按钮
 class Music_Button():
+    is_open = True   # 背景乐音的标记
