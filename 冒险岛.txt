@@ -21,3 +21,4 @@ class MyMap():
             self.x = 800  # 给地图一个新的坐标点
         else:
             self.x -= 5  # 5个像素向左移动
+
