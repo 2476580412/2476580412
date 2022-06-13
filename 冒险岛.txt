@@ -55,3 +55,4 @@ class Marie():
     def __init__(self):
         # 初始化小玛丽矩形
         self.rect = pygame.Rect(0, 0, 0, 0)
+        self.jumpState = False  # 跳跃的状态
