@@ -32,3 +32,4 @@ class Music_Button():
     def __init__(self):
         self.open_img = pygame.image.load('image/btn_open.png').convert_alpha()
         self.close_img = pygame.image.load('image/btn_close.png').convert_alpha()
+        self.bg_music = pygame.mixer.Sound('audio/bg_music.wav')  # 加载背景音乐
